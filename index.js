@@ -41,3 +41,4 @@ function newGame() {
     scoreHome.textContent = homeScore
     scoreGuest.textContent = guestScore
 }
+
