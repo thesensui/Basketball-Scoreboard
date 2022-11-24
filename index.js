@@ -4,7 +4,7 @@ let scoreGuest = document.getElementById("score-guest")
 let homeScore = 0
 let guestScore = 0
 
-function increaseHomeScoreOne(){
+function increaseHomeScoreOne() {
     homeScore += 1
     scoreHome.textContent = homeScore
 }
